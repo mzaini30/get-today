@@ -1,10 +1,10 @@
 {
   "name": "get-today",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-  	"release": "bumpp --tag --commit --push"
+    "release": "bumpp --tag --commit --push"
   },
   "repository": {
     "type": "git",
